@@ -9,3 +9,5 @@ Teknologi yang digunakan cukup simpel
 - BOOTSTRAP TEMPLATE
 - JS
 
+Hanya index.html saja yang bisa di direct, untuk menu lainnya tidak bisa 
+karena berfokus dengan landing page saja
